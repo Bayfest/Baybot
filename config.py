@@ -1,4 +1,4 @@
-TOKEN = 'Nzg3NjM2MjgxODMxODUwMDM0.X9X1cw.HmOq2xI7rVGbAONlhHZKsPz79pw' # bot token
+TOKEN = 'Токкен бота' # bot token
 
 POST_ID = 809090431559925780 # post id to read reactions from
 
