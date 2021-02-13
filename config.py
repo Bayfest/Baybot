@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 TOKEN = 'Token' # bot token
+=======
+TOKEN = 'Токкен бота' # bot token
+>>>>>>> 011d09dc8d3aa297225926704da7c043b0a9e4be
 
 POST_ID = 809090431559925780 # post id to read reactions from
 
