@@ -7,7 +7,7 @@ import config
 
 class MyClient(discord.Client):
     async def on_ready(self):
-        print('I am ready to kills')
+        print('I am ready to kill\'s')
         print('Available commands:\nХочу роль (Название роли)\nУбрать роль (Название роли)')
         
     async def on_message(self, message):
